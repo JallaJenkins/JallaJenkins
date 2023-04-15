@@ -4,7 +4,7 @@
 
 - 🌱 I have a decent knowledge of Python and HTML/CSS/JavaScript as well as some familiarity with Java and Lua. I'm currently learning C++ and Ruby on Rails. I'm also taking Introduction to Algorithms through MIT's OpenCourseWare. 
 
-- You will find several sample projects here in my repository including:\n
+- You will find several sample projects here in my repository including:
       1) rachel-meditates (a website for my partner's meditation teaching activities),
       2) qt_interactive_tableview_test_project (a small app testing Qt functionality), and 
       3) CharacterRoller (a project in-progress to fully demonstrate my abilities with Python and Qt).
